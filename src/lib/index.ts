@@ -1,3 +1,3 @@
 // place files you want to import through the `$lib` alias in this folder.
 
-export const buildBump = 1;
+export const buildBump = 2;
